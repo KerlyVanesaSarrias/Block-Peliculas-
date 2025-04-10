@@ -1,9 +1,12 @@
 body {
     background-color: #F0ECE7;
     font-family: 'Cinzel';
-    padding: 20px 80px;
+    margin: 0;
 }
 
+section{
+    padding: 80px ;
+}
 
 .contenedor {
     display: flex;
